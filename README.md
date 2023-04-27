@@ -1,0 +1,2 @@
+# go_philosoper_dining_problem
+ go_philosoper_dining_problem
